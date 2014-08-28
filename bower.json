@@ -1,0 +1,23 @@
+{
+  "name": "DrinkApp",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Mawhinney <matt.mawhinney@gmail.com>"
+  ],
+  "description": "'An Angular/Sails Test App'",
+  "main": "'package.json'",
+  "keywords": [
+    "['angular'",
+    "'sails']"
+  ],
+  "license": "MIT",
+  "homepage": "'na at the moment'",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
